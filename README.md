@@ -55,6 +55,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%99%20and%20Python-000?style=for-the-badge" />
+  <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-%3C%2F%3E-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Data Analytics Badge" src="https://img.shields.io/badge/Data%20Analytics-Insights-blue?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
-
